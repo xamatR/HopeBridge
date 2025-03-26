@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "dHMvS/x9XW4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\xamat\\Documents\\Projetos\\HopeBridge\\HopeBridge\\HopeBridge\\HopeBridge.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xamat\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.1\\microsoft.aspnetcore.openapi.9.0.1.nupkg.sha512",
+    "C:\\Users\\xamat\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512",
+    "C:\\Users\\xamat\\.nuget\\packages\\scalar.aspnetcore\\2.1.1\\scalar.aspnetcore.2.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
